@@ -148,7 +148,14 @@ The app uses the BLoC (Business Logic Component) pattern for state management:
 
 ## 📱 Screenshots
 
-[Add screenshots of your app here]
+<img width="1344" height="2992" alt="Screenshot_20250801_071511" src="https://github.com/user-attachments/assets/a5755367-0f13-43f4-89c0-930911d20726" />
+
+<img width="1344" height="2992" alt="Screenshot_20250801_071454" src="https://github.com/user-attachments/assets/2dad4d73-c75b-47e5-96e2-e519bbd2e67c" />
+
+<img width="1344" height="2992" alt="Screenshot_20250801_071423" src="https://github.com/user-attachments/assets/c22d06c1-4709-48e4-8972-eb1dbf8ceb34" />
+
+<img width="1344" height="2992" alt="Screenshot_20250801_071341" src="https://github.com/user-attachments/assets/cb1e0955-8378-4023-b066-3c86aed55e70" />
+
 
 ## 🤝 Contributing
 
